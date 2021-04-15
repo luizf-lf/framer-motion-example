@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const containerVariants = {
   hidden: {
     opacity: 0,
-    x: '-100vw',
+    x: '100vw',
   },
   visible: {
     opacity: 1,
@@ -31,7 +31,7 @@ const nextVariants = {
 };
 
 const Base = ({ addBase, pizza }) => {
-  const bases = ['Classic', 'Thin & Crispy', 'Thick Crust'];
+  const bases = ['Classic', 'Thin & Crispy', 'Thicc Crust'];
 
   return (
     <motion.div
