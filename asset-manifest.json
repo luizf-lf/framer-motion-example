@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/framer-motion-example/static/css/main.03ea62d1.chunk.css",
-    "main.js": "/framer-motion-example/static/js/main.2b43cabc.chunk.js",
-    "main.js.map": "/framer-motion-example/static/js/main.2b43cabc.chunk.js.map",
+    "main.js": "/framer-motion-example/static/js/main.f4b8416c.chunk.js",
+    "main.js.map": "/framer-motion-example/static/js/main.f4b8416c.chunk.js.map",
     "runtime-main.js": "/framer-motion-example/static/js/runtime-main.e178917d.js",
     "runtime-main.js.map": "/framer-motion-example/static/js/runtime-main.e178917d.js.map",
     "static/js/2.0eba2355.chunk.js": "/framer-motion-example/static/js/2.0eba2355.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e178917d.js",
     "static/js/2.0eba2355.chunk.js",
     "static/css/main.03ea62d1.chunk.css",
-    "static/js/main.2b43cabc.chunk.js"
+    "static/js/main.f4b8416c.chunk.js"
   ]
 }
