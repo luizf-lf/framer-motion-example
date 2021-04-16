@@ -8,3 +8,7 @@ This example was developed following the [The Net Ninja's Tutorial](https://www.
 
 1. Install all dependencies with `yarn` or `npm install`
 2. Run the project in development mode: `yarn dev` or `npm run dev`
+
+## See it live.
+
+You can see it live at [luizf-lf.github.io/framer-motion-example](https://luizf-lf.github.io/framer-motion-example/).
